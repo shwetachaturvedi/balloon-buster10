@@ -26,7 +26,7 @@ function setup() {
   background.scale = 2.5
   
   // creating bow to shoot arrow
-  bow = createSprite(480,220,20,50);
+  bow = createSprite(100,220,20,50);
   bow.addImage(bowImage); 
   bow.scale = 1;
   
